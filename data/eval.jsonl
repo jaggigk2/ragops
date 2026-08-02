@@ -1,0 +1,8 @@
+{"query": "sync token expired, how do I fix it", "relevant_ids": ["kb-001"]}
+{"query": "what does FLX-429 mean", "relevant_ids": ["kb-006"]}
+{"query": "what counts toward my bill", "relevant_ids": ["kb-011"]}
+{"query": "set up single sign on", "relevant_ids": ["kb-003"]}
+{"query": "my syncs are really slow", "relevant_ids": ["kb-014", "kb-007"]}
+{"query": "a column got dropped in the source, now there's a warning", "relevant_ids": ["kb-010"]}
+{"query": "SCIM group push okta", "relevant_ids": ["kb-004"]}
+{"query": "do I need to open firewall ports for the agent", "relevant_ids": ["kb-005", "kb-002"]}
